@@ -11,6 +11,7 @@ https://github.com/Ktamim98/SnowSeeker/assets/124142522/cbfd7f34-7047-43d6-b90c-
 - Support for landscape and portrait mode
 - SwiftUI and Combine frameworks
 - User defaults and JSON encoding/decoding
+- Search bar for quick access
 
 
 ## Code Overview
