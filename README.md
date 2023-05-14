@@ -42,3 +42,6 @@ https://github.com/Ktamim98/SnowSeeker/assets/124142522/cbfd7f34-7047-43d6-b90c-
 #### Favorites
 - The Favorites class is an ObservableObject that manages the user's favorite ski resorts. It uses user defaults and JSON encoding/decoding to save and retrieve the data.
 
+## Aacknowledgment
+This project was created as a part of "100 Days of SwiftUi" course.
+
