@@ -1,6 +1,8 @@
 # SnowSeeker
 SnowSeeker is a SwiftUI app that helps users to explore different ski resorts and find their favorite ones. The app provides information about each ski resort, including the number of runs, size, price, facilities, etc. Users can also add their favorite resorts to a favorites list for quick access.
 
+https://github.com/Ktamim98/SnowSeeker/assets/124142522/cbfd7f34-7047-43d6-b90c-305a97509b25
+
 ## Features
 - Explore different ski resorts with detailed information such as number of runs, size, price, facilities, and more.
 - Add your favorite resorts to the favorites list for quick access.
@@ -11,7 +13,7 @@ SnowSeeker is a SwiftUI app that helps users to explore different ski resorts an
 - User defaults and JSON encoding/decoding
 
 
-##Code Overview
+## Code Overview
 
 ### Models
 #### Resort
